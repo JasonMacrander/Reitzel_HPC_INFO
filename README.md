@@ -1,1 +1,2 @@
 # Reitzel_HPC_INFO
+This reposity is to be used as navigational roadmap for logging onto, accessing, and executing programs on the VIPER cluster at UNCC. This includes mardown files (like this one) with simple instructions on how to navigate and excute these commands. This is not an entirely inclusive document and keep in mind that many items via command line can be investigated [using simple google searches](www.google.com).
